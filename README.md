@@ -9,7 +9,7 @@ A minimal, rhythm-based indie game inspired by the Collatz process.
 📱 Playable as Web App, PWA and Android app  
 
 ## Play
-👉 https://monkimonk.github.io/Collatz-Jump/
+👉 https://monklimonk.github.io/Collatz-Jump/
 
 ## Features
 - One-tap / one-jump gameplay
