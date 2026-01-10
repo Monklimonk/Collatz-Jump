@@ -1,3 +1,5 @@
+![GitHub Pages](https://img.shields.io/badge/github--pages-live-brightgreen)
+![PWA](https://img.shields.io/badge/PWA-installable-blue)
 # Collatz Jump
 
 A minimal, rhythm-based indie game inspired by the Collatz process.
